@@ -178,11 +178,9 @@
 				TargetAttributes = {
 					79EAF0821B1DDDD2005A4DD7 = {
 						CreatedOnToolsVersion = 6.3.2;
-						LastSwiftMigration = 0800;
 					};
 					79EAF0971B1DDDD2005A4DD7 = {
 						CreatedOnToolsVersion = 6.3.2;
-						LastSwiftMigration = 0800;
 						TestTargetID = 79EAF0821B1DDDD2005A4DD7;
 					};
 				};
@@ -366,7 +364,6 @@
 				INFOPLIST_FILE = CreditCardValidatorExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -377,7 +374,6 @@
 				INFOPLIST_FILE = CreditCardValidatorExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -396,7 +392,6 @@
 				INFOPLIST_FILE = CreditCardValidatorExampleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CreditCardValidatorExample.app/CreditCardValidatorExample";
 			};
 			name = Debug;
@@ -412,7 +407,6 @@
 				INFOPLIST_FILE = CreditCardValidatorExampleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CreditCardValidatorExample.app/CreditCardValidatorExample";
 			};
 			name = Release;
